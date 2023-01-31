@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "graphql": "~16.6.0",
+    "graphql-http": "~1.13.0"
+  },
+  "type": "module"
+}
